@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.input-wrapper {
+    text-align: center;
+}
+.input-wrapper input{
+    margin: 0 auto;
+    height: 44px;
+    width: 300px;
+    font-size: 16px;
+}
