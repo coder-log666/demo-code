@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+ts-decorator-demo/node_modules/
+ts-decorator-demo/dist/
+ts-decorator-demo/package-lock.json
+ts-decorator-demo/.DS_Store
